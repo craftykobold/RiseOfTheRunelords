@@ -1,6 +1,6 @@
 # L'Éveil des seigneurs des runes - Conversion 2E
 
-Un repository amateur pour des guides de conversion à destination de ceux souhaitant jouer et convertir L'Éveil des seigneurs des runes (EdSR ou RotR en anglais) avec Pathfinder 2ème édition.
+Un repository amateur pour des guides de conversion à destination de ceux souhaitant jouer et convertir L'Éveil des seigneurs des runes (EdSR ou RotR en anglais) avec Pathfinder seconde édition.
 
 Les fichiers README.md  pour chaque livre représentent les guides de conversion. Les dossiers Statblocks de chaque livre contiennent les différents stat blocks des monstres ou PNJs liés au guide.
 
@@ -29,7 +29,7 @@ Ce repository contient ces fichiers créés publiquement, ainsi que d'autres out
 
 ## Pas de documents sous Copyright
 
-Merci de ne pas publier de fichiers PDF, de textes intégraux, ni aucune image ou carte de la campagne. Ne publier que des modifications nécessaires à la conversion en 2ème édition (2E), comme les DDs, et les builds 2E des PNJs/Monstres/Dangers/Objets ainsi que les PX et les trésors correspondant à la 2E. Merci d'inclure un numéro de lieu pour chaque rencontre ou objet afin que les MJs puissent les recouper avec le scénario original.
+Merci de ne pas publier de fichiers PDF, de textes intégraux, ni aucune image ou carte de la campagne. Ne publier que des modifications nécessaires à la conversion en seconde édition (2E), comme les DDs, et les builds 2E des PNJs/Monstres/Dangers/Objets ainsi que les PX et les trésors correspondant à la 2E. Merci d'inclure un numéro de lieu pour chaque rencontre ou objet afin que les MJs puissent les recouper avec le scénario original.
 
 # Utilisation de Github
 
