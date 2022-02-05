@@ -1,23 +1,23 @@
-# Thassilonian Magic
+# Magie Thassilonienne
 
-This folder contains ancient items that are used in more than one book such as Sihedron Medallions, and several different takes on Sin Magic.
+Ce dossier des objets anciens utilisés dans plusieurs livres comme les médaillons de Sihédron, et plusieurs propositions sur la magie des péchés.
 
-## Sihedron Medallions
-[Sihedron Medallion PDF](SihedronMedallion.pdf)
+## Médaillons de Sihédron
+[Médaillon de Sihédron PDF](SihédronMedallion.pdf) - non traduit
 
-[Greater Sihedron Medallion PDF](GreaterSihedronMedallion.pdf)
+[Médaillon de Sihédron supérieur PDF](GreaterSihédronMedallion.pdf) - non traduit
 
-## One take on Sin Magic, by ZomBagus
-[Sin Magic Arcane Thesis PDF](ArcaneThesisSinMagic.pdf) and [Drain Sinful Item PDF](DrainSinfulItem.pdf)
+## Proposition sur la magie des péchés, par ZomBagus
+[Thèse arcanique magie des péchés PDF](ArcaneThesisSinMagic.pdf) et [Drain Sinful Item PDF](DrainSinfulItem.pdf) - non traduits
 
-Gives a new Arcane Thesis.
+Offre une nouvelle thèse arcanique.
 
-## Similar take on Sin Magic, by @Nintendogeek01
-[Thassilonian Specialist PDF](ThassilonianSpecialistNintendogeek01.pdf)
+## Proposition similaire sur la magie des péchés, par @Nintendogeek01
+[Spécialiste Thassilonien PDF](ThassilonianSpecialistNintendogeek01.pdf) - non traduit
 
-Also gives a new Arcane Thesis.
+Offre aussi une nouvelle thèse arcanique.
 
-## Different take on Sin Magic, by @Lawrencelot
-[Thassilonian Specialist PDF (old version)](ThassilonianSpecialist.pdf) and [Thassilonian Specialist PDF (new version)](Thassilonian_specialist_v2.pdf) 
+## Proposition différente sur la magie des péchés, par @Lawrencelot
+[Spécialiste Thassilonien PDF (ancienne version)](ThassilonianSpecialist.pdf) et [Spécialiste Thassilonien PDF (nouvelle version)](Thassilonian_specialist_v2.pdf)  - non traduits
 
-Gives a new Archetype instead of an Arcane Thesis. Has been playtested once (with the Wizard class, not with other spellcasting classes yet) up until level 11 and gone through some feedback, feels quite balanced so far.
+Offre un nouvel archétype à la place d'une thèse arcanique. Celui-ci a été testé une fois (avec la classe de Magicien, pas encore avec d'autre classe de lanceur de sorts) jusqu'au niveau 11 et quelques passes de retours, et semble assez équilibrée jusque là.
