@@ -1,49 +1,49 @@
-**Eager Performer** : Hearing that Sandpoint had a theater rivaling those found in large cities like Magnimar and Korvosa, you decided to try your luck getting stage time there. After sending a letter to Cyrdak Drokkus requesting an audition and not hearing back, you&#39;ve taken it upon yourself to travel to Sandpoint and meet him in person, trusting your force of will and charming influence will get you what you want.
+**Artiste enthousiaste** : En apprenant que Pointesable possède un théâtre rivalisant avec ceux de grandes villes comme Magnimar ou Korvosa, le personnage décide de tenter sa chance et d’obtenir un rôle là-bas. Il a envoyé une lettre à Cyrdak Drokkus pour demander à passer une audition mais, comme il n’a pas reçu de réponse, il a décidé de se rendre à Pointesable pour le voir en personne, persuadé que sa force de caractère et son charme lui permettront d’obtenir facilement ce qu’il désire.
 
-- You gain 2 ability boosts. One must be either Charisma or Dexterity, the other is free.
-- You also gain the Fascinating Performance skill feat, and are trained in the Performance skill and one of your choice between Music, Theatre or Entertainment Lore Skill.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Charisme ou de Dextérité, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Représentation et une compétence de Connaissance au choix parmis Musique, Théâtre ou Spectacle. Vous gagnez le don de compétence Représentation fascinante.
 
-**Family Ties** : While not ethnically a Varisian, you have been raised among Varisians and they consider you one of their own. Furthermore, you managed to get in good with a group of Sczarni and consider them your new family. After being run out of the last place your Sczarni family camped, you tracked down a friend of the family in Sandpoint—a ruthless thug named Jubrayl Vhiski at the Fatman&#39;s Feedbag. During your time with the Sczarni, you learned a few tricks of the trade.
+**Liens familiaux** : D’un point de vue ethnologique, le personnage n’est pas varisien mais il a été élevé parmi eux et ils le considèrent comme l’un des leurs. Il a même réussi à se faire accepter par un groupe de Sczarni devenu sa nouvelle famille. Une fois sa famille chassée de son dernier campement, il s’est mis en quête d’un ami du clan qui réside à Pointesable, un malandrin sans foi ni loin nommé Jubrayl Vhiski qui se trouve à la Musette de l’homme gras. Les Sczarni ont appris au personnage quelques ficelles du métier.
 
-- You gain 2 ability boosts. One must be either Wisdom or Dexterity, the other is free.
-- You gain the Experienced Smuggler skill feat, and you are trained in the Thievery skill and the Underworld Lore Skill.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Sagesse ou de Dextérité, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Vol et Connaissance de la pègre. Vous gagnez le don de compétence Contrebandier expérimenté.
 
-**Friends and Enemies** : One of your family members, perhaps a parent, cousin, aunt, or uncle, helped Daviren Hosk put down a group of goblins near Sandpoint. Since then, your family member passed away, but not before telling you about that day and the offer Daviren made her should she ever be in need. Once you make it to Sandpoint and meet up with Daviren Hosk at the Goblin Squash Stables, he gives you one of his best steeds and all the necessary accoutrements as gratitude for your family member&#39;s help. He also teaches you everything there&#39;s to know about goblins.
+**Amis et ennemis** : Un membre de la famille du personnage (peut-être un de ses parents, un cousin, une tante ou un oncle) a aidé Daviren Hosk à éliminer un groupe de gobelins près de Pointesable. Depuis, ce parent est décédé mais, avant, il a raconté au personnage ce qui s’était passé ce jour-là et lui a parlé de l’offre que Daviren lui a faite s’il se trouvait un jour dans le besoin. Quand le personnage arrive à Pointesable et rencontre Daviren Hosk, à l’écurie du Gobelin écrabouillé, l’homme lui donne son meilleur cheval et son harnachement, en guise de remerciement pour l’aide que son parent lui a offerte.
 
-- You gain 2 ability boosts. One must be either Wisdom or Strength, the other is free.
-- You also gain the Train Animal skill feat, and you are trained in the Nature skill and the Goblin Lore skill.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Sagesse ou de Force, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Nature et Connaissance des gobelins. Vous gagnez le don de compétence Dressage animalier.
 
-**Giant Slayer** : Your family&#39;s village was plundered by giants in the wilds of Varisia, leaving nothing but a smoldering ruin. After the destruction of your village, your family trained for combat against giants to prevent such a tragedy from ever happening again. Since hearing of giants mobilizing throughout the countryside, you ventured to Sandpoint to help the town prepare for a possible incursion.
+**Tueur de géant** : Le village de la famille du personnage se trouvait dans les étendues sauvages de Varisie mais des géants l’ont pillé, ne laissant que des ruines fumantes. Après cette catastrophe, sa famille s’est entraînée à combattre les géants, afin d’empêcher qu’une telle tragédie ne se reproduise. Quand le personnage a entendu dire que des géants se rassemblaient dans tout le pays, il s’est rendu à Pointesable pour aider la ville à se préparer à une éventuelle invasion.
 
-- You gain 2 ability boosts. One must be either Strength or Constitution, the other is free.
-- You gain the Titan Wrestler skill feat, you are also trained in the Athletics skill and the Giant Lore skill. {Special: The Recall Knowledge use of this Skill applies to all humanoid creatures who are size Large or larger}
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Force ou de Constitution, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Athlétisme et Connaissance des Géants {Spécial : L'action Se souvenir de cette compétence s'applique à tout  humanoïde de taille Grande ou supérieure}. Vous gagnez le don de compétence Lutte contre les titans
 
-**Goblin Watcher** : You grew up in Sandpoint staring off the cliff across the Varisian Gulf. Spending so much time there at Junker&#39;s Edge watching the goblins below as they scrounged through the discarded junk and seeing what they made out of the garbage, you developed an eye for spotting the most useful and valuable discarded items.
+**Œil de gobelin** : Le personnage a grandi à Pointesable où il passait son temps à observer le golfe de Varisie depuis les falaises. Il a si souvent regardé les gobelins de la plage du dépotoir fouiller dans les déchets et recycler les détritus qu’il a développé un véritable don pour repérer les rebus les plus utiles et les plus précieux.
 
-- You gain 2 ability boosts. One must be either Wisdom or Intelligence, the other is free.
-- You gain the Quick Identification skill feat, and you are trained in one of your choice between Arcana or Occultism and the Lore (Sandpoint) skill.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Sagesse ou d'Intelligence, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans la compétence de votre choix parmi Arcanes ou Occultisme ainsi que dans la compétence de Connaissance de Pointesable. Vous gagnez le don de compétence Identification rapide.
 
-**Hagfish Hopeful** : Ever since passing through Sandpoint when you were a child and hearing about the contest at the popular tavern known as the Hagfish, you wanted to take that coin purse as your own and carve your name on the ceiling beam above the bar. Training yourself to choke down indigestible food and drink water a pig would refuse, you&#39;ve built up quite a strong resistance to all things putrid and gross.
+**Entraînement pour la Myxine** : Enfant, le personnage est passé à Pointesable et a entendu parler du concours de la Myxine, la célèbre taverne. Depuis, il rêve de s’emparer de la bourse pleine de pièces et de graver son nom sur la poutre au-dessus du bar. Il s’est entraîné à avaler une nourriture indigeste et à boire une eau dont même les porcs ne voudraient pas, au point qu’il a développé une résistance particulière à l’encontre de tout ce qui est putride et répugnant.
 
-- You gain 2 ability boosts, one must be in Constitution or Wisdom, the other is free.
-- You gain the Natural Medicine skill feat, and are trained in the Nature skill and the Herbalism Lore skill {Special: You may use the Recall Knowledge use of this skill to recall information about specific poisons and diseases, and about certain plants.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Constitution ou de Sagesse, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Nature et Connaissance en herboristerie {Spécial: Vous pouver utiliser l'action Se souvenir avec cette compétence pour vous souvenir d'informations sur des poisons ou maladies particulières, ainsi que pour certaines plantes}. Vous gagnez le don de compétence Médecine naturelle.
 
-**Merchant Family** : You are related to one of the four noble families from Magnimar who founded the Mercantile League of Sandpoint. You either grew up in Magnimar as a cousin in the Valdemar or Deverin family or were born and raised in Sandpoint. Education in running a business and years of looking after the family enterprise have given you a knack for trade.
+**Famille marchande** : Le personnage a des liens de parenté avec l’une des quatre familles nobles venues de Magnimar pour fonder la Ligue mercantile de Pointesable. C’est un cousin des Valdemar ou des Déverin qui a grandi à Magnimar ou bien il est né et à été élevé à Pointesable. Il a été formé à tenir un commerce et il a passé des années à s’occuper de l’entreprise familiale. Depuis, il a un don pour les affaires.
 
-- You gain 2 ability boosts. One must be either Intelligence or Charisma, the other is free.
-- You gain the Bargain Hunter skill feat, and are trained in the Diplomacy skill and the Mercantile Lore skill.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être d'Intelligence ou de Charisme, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Diplomatie et Connaissance commerciale. Vous gagnez le don de compétence Chasseur de bonnes affaires.
 
-**Monster Hunter** : Perhaps you came to the Varisian Gulf in search of the Sandpoint Devil, or maybe you followed fisherman&#39;s tales of Old Murdermaw— regardless, you&#39;ve ventured through Varisia to hunt down famous monsters. While they have all eluded you so far, you made it to Sandpoint to research and restock before heading back out into the wilderness.
+**Chasseur de monstres** : Le personnage s’est rendu dans le golfe de Varisie en quête du diable de Pointesable ou parce qu’il a été attiré par les histoires de pêcheurs qui parlent du vieux Gueule-meurtrière. En tout cas, il est en Varisie pour chasser de célèbres monstres. Pour l’instant, il n’en a pas vu un seul et il s’est rendu à Pointesable pour faire des recherches et se réapprovisionner avant de repartir dans les étendues sauvages.
 
-- You gain 2 ability boosts. One must be either Strength or Dexterity, the other is free.
-- You gain the Intimidating Glare skill feat, and are trained in the Intimidation skill and the Monster Lore skill. {Special: The Recall Knowledge use of this skill can be used to determine information about Aberrations and Magical Beasts.}
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Force ou de Dextérité, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Intimidation et Connaissance des monstres {Spécial: L'action Se rappeler de cette compétence peut-être utilisée pour obtenir des informations à propos d'Aberrations et de Bêtes Magiques.}. Vous gagnez le don de compétence Regard intimidant.
 
-**Scholar of the Ancients** : Growing up with your nose in books, you&#39;ve had a great interest in past cultures and ancient history. Furthermore, having grown up in Varisia, you know the monuments dotting the landscape belong to an ancient civilization known as Thassilon. From your life of study and dogged research, you&#39;ve pieced together the language and partial history of this once-great empire.
+**Spécialiste de l’antiquité** : Le personnage a grandi le nez dans les livres et il s’est particulièrement intéressé aux cultures disparues et à l’histoire ancienne. De plus, comme il vivait en Varisie, il sait que les monuments qui constellent son paysage appartiennent à une ancienne civilisation nommée le Thassilon. Après une vie d’études et de recherches obstinées, il a reconstitué le langage et une partie de l’histoire de cet empire autrefois glorieux.
 
-- You gain 2 ability boosts. One must be either Intelligence or Charisma, the other is free.
-- You gain the Dubious Knowledge skill feat, and you are trained in the Arcana skill and the Lore (Thassilon) skill. {Special: You gain access to the Thassilonian language.}
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être d'Intelligence ou de Charisme, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans la compétence Arcanes et Connaissance de Thassilon {Spécial : Vous avez accès à la langue Thassilonien}. Vous gagnez le don de compétence Savoir douteux.
 
-**Student of Faith** : While you have personally dedicated your life to a single deity, you study all religions and mortal faiths. Upon hearing that the town of Sandpoint recently completed a cathedral dedicated to the six deities most popular in the area, you had to see the place for yourself, and have arrived in time for the consecration of this holy edifice.
+**Étudiant en religion** : Le personnage consacre sa vie à une unique divinité mais il étudie toutes les religions et croyances mortelles. Quand il a appris que Pointesable venait de terminer une cathédrale dédiée aux six divinités les plus populaires de la région, il a voulu voir l’endroit de ses yeux et il est arrivé juste à temps pour la consécration du saint édifice.
 
-- You gain 2 ability Boosts, one must be either Constitution or Wisdom, the other is free.
-- You gain the Student of the Canon skill feat and are trained in the Religion skill and the Lore skill of your chosen Deity {for example if you worship Desna, then you would get Desna Lore as the skill}.
+- Choisissez deux primes de caractéristiques. Une de ces primes doit être de Constitution ou de Sagesse, et l’autre est une prime de caractéristique libre.
+- Vous êtes qualifié dans les compétences Religion et une compétence de Connaissance de la divinité de votre choix {par exemple si vous vénérez Desna, vous obtiendrez la compétence Connaissance de Desna}. Vous gagnez le don de compétence Étudiant du droit canon.
