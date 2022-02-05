@@ -1,64 +1,66 @@
-# Rise Of The Runelords - 2E Conversion - Page created for French conversion -  not yet started
+# L'Éveil des seigneurs des runes - Conversion 2E
 
-A fan built repository for the conversion guides for those wishing to run and convert RotR to Pathfinder 2E.
-The README.md files for each book are the conversion guides. While the Statblocks folder for each book holds the individual monster/NPC stat blocks which are linked to from the guide.  
+Un repository amateur pour des guides de conversion à destination de ceux souhaitant jouer et convertir L'Éveil des seigneurs des runes (EdSR ou RotR en anglais) avec Pathfinder 2ème édition.
 
-* [Campaign Backgrounds](./RotRCampaignBackgrounds.md)  
-* [Book 1: Burnt Offerings](./Book%201/README.md) - complete
-* [Book 2: The Skinsaw Murders](./Book%202/README.md) - creatures complete 
-* [Book 3: The Hook Mountain Massacre](./Book%203/README.md) - complete
-* [Book 4: Fortress of the Stone Giants](./Book%204/README.md) - creatures complete 
-* [Book 5: Sins of the Saviors](./Book%205/README.md) - creatures complete 
-* [Book 6: Spires of Xin-Shalast](./Book%206/README.md) - 1 creature build remaining 
-* [Thassilonian Magic](./ThassilonianMagic/README.md) - choose which option you prefer
-* [OGL](./OGL.md)
+Les fichiers README.md  pour chaque livre représentent les guides de conversion. Les dossiers Statblocks de chaque livre contiennent les différents stat blocks des monstres ou PNJs liés au guide.
 
-## Join us
+* [Historiques de Campagne](./HistoriquesEtRéférences/HistoriquesDeCampagne.md) - non traduit
+* [Livre 1 : Les Offrandes calcinées](./Livre%201/README.md) - conversion complétée - non traduit
+* [Livre 2 : Les Meurtres des écorcheurs](./Livre%202/README.md) - conversion complétée (excepté l'attribution des trésors)  - non traduit
+* [Livre 3 : Le Massacre de la Montagne crochue](./Livre%203/README.md) - conversion complétée - non traduit
+* [Livre 4 : La Forteresse des géants de pierre](./Livre%204/README.md) - conversion complétée (excepté l'attribution des trésors)  - non traduit
+* [Livre 5 : Les Péchés des sauveurs](./Livre%205/README.md) - conversion complétée (excepté l'attribution des trésors)   - non traduit
+* [Livre 6 : Les Tours de Xin-Shalast](./Livre%206/README.md) - conversion complétée (excepté l'attribution des trésors)  - non traduit
+* [Livre 6 : Alternative jusqu'au niveau 20](./Livre%206%20jusqu-au%20niveau%2020/README.md) - conversion structurée seulement - non traduit
+* [Magie Thassilonienne](./HistoriquesEtRéférences/MagieThassilonienne/README.md) - choisissez l'option que vous préférez - non traduit
+* [Licence OGL (en anglais)](../OGL.md)
 
-To join us just ask @mirkorainer on GitHub or in the [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)  
+## Rejoignez-nous !
 
-Once you're added as a member then you can add and approve changes. All the changes are tracked so if we make a mistake, we can refer back to the old version.  
+Pour nous rejoindre, contactez simplement @mirkorainer sur GitHub ou dans le Discord [A Series of Dice-Based Events](https://discord.gg/UQ8UD3H)  
 
-## Recommended Tool
+Une fois ajouté comme membre vous pouvez ajouter et accepter des modifications. Tous les changements sont historicisés nous pouvons donc revenir à une version précédente en cas d'erreur.  
 
-We generaly use the [PF2 Monster Builder](http://monster.pf2.tools/) to create NPCs and Monsters. This uses JSON, PNG and PDF files, that can be easily imported/exported. 
+## Outil Recommandé
 
-This repository holds those files publicly sourced and created, as well as other tools/files.  
+Nous utilisons généralement [PF2 Monster Builder](http://monster.pf2.tools/), qui a également été pour la plus grande partie traduit en Français, pour créer des PNJs et des Monstres. Cet outil utilise les formats JSON, PNG et PDF, qui peuvent aisément être importés ou exportés.
 
-## No Copyright Materials
+Ce repository contient ces fichiers créés publiquement, ainsi que d'autres outils ou fichiers. 
 
-Please do not submit PDF files or entire texts, or any images or maps from the AP. Only submit modifications necessary to convert to 2E, such as the DCs and 2E builds of NPCs/Monsters/Hazards/Items plus XP and 2E level based treasure. Please include a location number or name for each encounter or item so GMs can cross-reference with the original scenario.
+## Pas de documents sous Copyright
 
-# Using Github
+Merci de ne pas publier de fichiers PDF, de textes intégraux, ni aucune image ou carte de la campagne. Ne publier que des modifications nécessaires à la conversion en 2ème édition (2E), comme les DDs, et les builds 2E des PNJs/Monstres/Dangers/Objets ainsi que les PX et les trésors correspondant à la 2E. Merci d'inclure un numéro de lieu pour chaque rencontre ou objet afin que les MJs puissent les recouper avec le scénario original.
 
-## How does this even work? 
+# Utilisation de Github
 
-[What is Github?](https://youtu.be/U1C0F-Au9h4)  
-On GitHub, you can share text files (and code) and collaborate with others. The nice thing is that README.md files display as you're browsing the folders of a GitHub Project using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).  
+## Comment est ce que ça marche ? 
 
-### Making Changes
+[Qu'est-ce que Github (en anglais) ?](https://youtu.be/U1C0F-Au9h4)  
+Sur GitHub, vous pouvez partager des textes (et du code) et collaborer avec d'autres personnes. L'avantage est que les fichiers README.md sont affichés lorque vous naviguez dans les fichier du projet GitHub grâce au [balisage Markdown de GitHub](https://guides.github.com/features/mastering-markdown/).  
 
-There's an in browser editor that makes it easy to change the files you see and submit a request to chave them permanently changed. There is also a Github Desktop app that allows you to work using standard desktop tools.
+### Faire des modifications
 
-Just click into the file you want to change and select the edit button in the top right.  
+Un éditeur est accessible depuis un navigateur, facilitant la modification des fichiers et l'envoi d'une demande pour sauvegarder la modification. Il existe également une application de bureau Github qui permet de travailler en utilisant vos outils bureautiques habituels.
 
-![editor icon on GitHub](./Tutorial/ClickEditOnReadmePage.png)
-After changing, there will be a button at the bottom of the browser editor to "Propose file change", feel free to include a message on why it was changed.
+Cliquez simplement sur le fichier que vous voulez modifier et sélectionnez le bouton modifier dans le coin supérieur droit.
 
-![typing changes](./Tutorial/TypingChanges.png)
+![editor icon on GitHub](../Tutorial/ClickEditOnReadmePage.png)
+Après les modifications, un bouton "Propose file change", au bas de l'éditeur vous permettra de les soumettre. N'hésitez pas à ajouter un message sur les raisons de vos changements.
 
-![submit changes](./Tutorial/ProposeFileChange.png)
-After clicking that button, it will show you the changes you've made and have a new button near the top of the page to "Create pull request". 
+![typing changes](../Tutorial/TypingChanges.png)
 
-![create a pull request](./Tutorial/CreatePR.png)
+![submit changes](../Tutorial/ProposeFileChange.png)
+Après avoir cliqué sur ce bouton, vos modifications seront affichées et un nouveau bouton "Create pull request" apparaîtra. 
 
-![open pull request](./Tutorial/OpenPR.png)
-This sends the changes in to become permanent record in the repository.
+![create a pull request](../Tutorial/CreatePR.png)
 
-![submitted pull request](./Tutorial/PR-submitted.png)
-Now you can comment on the changes and discuss with others that change before it's solidified.
+![open pull request](../Tutorial/OpenPR.png)
+Ceci permet de rendre permanentes les modifications.
 
-![comments section](./Tutorial/CommentsOnPR.png)
-Members can now approve your changes. 
+![submitted pull request](../Tutorial/PR-submitted.png)
+Vous pouvez maintenant commenter les modifications et échanger sur celles-ci avec d'autres avant la validation.
 
-![where PRs go](./Tutorial/WherePRsGo.png)
+![comments section](../Tutorial/CommentsOnPR.png)
+Les membres peuvent ensuite approuver vos modifications. 
+
+![where PRs go](../Tutorial/WherePRsGo.png)
